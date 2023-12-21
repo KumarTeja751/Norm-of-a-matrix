@@ -38,19 +38,16 @@ print("{:.2f}".format(norm))
 ```
 ## Output:
 ### 1-Norm of a Matrix
-<br>
-<br>
-<br>
+![image](https://github.com/KumarTeja751/Norm-of-a-matrix/assets/144947756/b16a1981-07e3-4624-b50f-62296bfb0b79)
+
 
 ### 2-Norm of a Matrix
-<br>
-<br>
-<br>
+![image](https://github.com/KumarTeja751/Norm-of-a-matrix/assets/144947756/f1304673-7922-480b-bf5e-2c51bf7f0abe)
+
 
 ### Infinity Norm of a Matrix
-<br>
-<br>
-<br>
+![image](https://github.com/KumarTeja751/Norm-of-a-matrix/assets/144947756/08cd1728-464f-4263-9860-9f9e19c125e8)
+
 
 ## Result
 Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
